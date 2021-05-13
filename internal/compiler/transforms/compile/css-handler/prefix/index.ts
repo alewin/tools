@@ -1,7 +1,9 @@
-/* GENERATED:START(hash:cef7f5f2736247ed31692e797c3e63f9ef6c20be,id:main) Everything below is automatically generated. DO NOT MODIFY. Run `./rome run scripts/generated-files/css-prefix` to update. */
+/* GENERATED:START(hash:ac84b4da3a0f8f2a794e9534a619c9735c8f4616,id:main) Everything below is automatically generated. DO NOT MODIFY. Run `./rome run scripts/generated-files/css-prefix` to update. */
 import animation from "./prefixes/animation";
 import appearance from "./prefixes/appearance";
 import backdropFilter from "./prefixes/backdrop-filter";
+import borderInlineEnd from "./prefixes/border-inline-end";
+import borderInlineStart from "./prefixes/border-inline-start";
 import borderRadius from "./prefixes/border-radius";
 import boxShadow from "./prefixes/box-shadow";
 import boxSizing from "./prefixes/box-sizing";
@@ -23,6 +25,8 @@ export default [
 	...animation,
 	...appearance,
 	...backdropFilter,
+	...borderInlineEnd,
+	...borderInlineStart,
 	...borderRadius,
 	...boxShadow,
 	...boxSizing,
