@@ -1,0 +1,11 @@
+.style {
+	unicode-bidi: isolate;
+}
+
+.style {
+	unicode-bidi: isolate-override;
+}
+
+.style {
+	unicode-bidi: plaintext;
+}
